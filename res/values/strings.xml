@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SIMGuardActivity!</string>
+    <string name="app_name">SIM Guard</string>
+    <string name="tvTitle">Activate Service</string>
+    <string name="tbChange">Change</string>
+    <string name="bSet">Set Number</string>
+    <string name="tvInstruct">Set Phone Number to Inform: </string>
+    <string name="msgRunning">Simple Message</string>
+
+</resources>
